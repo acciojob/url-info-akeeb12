@@ -1,5 +1,5 @@
 //your JS code here. If required.
 var url = window.location.href;
-var n = url.n;
+var length = url.length;
 
- alert("The length of the URL is:" + n);
+ alert("The length of the URL is:" + length);
