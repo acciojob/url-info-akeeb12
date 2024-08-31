@@ -1,5 +1,5 @@
-//your JS code here. If required.
-const url = window.location.href;
-const length = url.length;
+const currentUrl = window.location.href;
 
- alert("The length of the URL is:" + length);
+const urlLength = currentUrl.length;
+
+alert("The length of the URL is: " + urlLength);
